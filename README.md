@@ -1,3 +1,3 @@
 #demo git repository
 
-this is a thinghugguy
+this is a thing
